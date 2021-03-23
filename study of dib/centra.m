@@ -1,6 +1,6 @@
 function [mtx2] = centra(mtx,ni,nj)
 %centralization of a probability matrix:mtx,size=ni*nj
-%注意有inf的情况
+%脳垄脪芒脫脨inf碌脛脟茅驴枚
 mtx2=zeros(ni,nj);
 for j=1:nj
     mn=min(mtx(1:ni,j));
