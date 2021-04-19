@@ -19,14 +19,11 @@ class ToyNet(nn.Module):
             nn.ReLU(True),
             nn.Linear(1024, 1024),
             nn.ReLU(True),
-            nn.Linear(1024, 2*self.K))#¼òµ¥ÍøÂç x-z µÃz(mu,std)
+            nn.Linear(1024, 2*self.K))#ç®€å•ç½‘ç»œ x-z å¾—z(mu,std)
 
         self.decode = nn.Sequential(
-                nn.Linear(self.K, 10))#Ò»²ãÏßÐÔ  z-y
-        self.bwencode = nn.Sequential(
-            nn.Linear(10, 2*self.K))# Ò»²ãÏßÐÔbackwards encoder z-y  !!!
-        #Ä£ÐÍ¿É¸Ä¶¯Ö®´¦£ºK,bw_encoder¸Ä³É¶à²ã£¬loss ¸Ä³Éconsistent classifier?!!
-        #ÑéÖ¤bw_encoderµÃµ½µÄz~ºÍzºÜ½Ó½ü?!!
+                nn.Linear(self.K, 10))#ä¸€å±‚çº¿æ€§  z-y
+       
 
     def forward(self, x, num_sample=1):
         if x.dim() > 2 : x = x.view(x.size(0),-1)
@@ -39,16 +36,14 @@ class ToyNet(nn.Module):
         logit = self.decode(encoding)
         one_hot = torch.nn.functional.one_hot(logit, n)#?!!
 
-        statistics2 = self.bwencode(logit) #!!!
-        mu2 = statistics2[:,:self.K]
-        std2 = F.softplus(statistics2[:,self.K:]-5,beta=1)
+       
 
         if num_sample == 1 : pass
         elif num_sample > 1 : logit = F.softmax(logit, dim=2).mean(0)
-        #consistent classifier£ºlogit=F.softmax(logit, dim=2).mean(0)
+        #consistent classifierï¼šlogit=F.softmax(logit, dim=2).mean(0)
 
 
-        return (mu, std), logit,(mu2, std2)#!!!
+        return (mu, std), logit #!!!
 
     def reparametrize_n(self, mu, std, n=1):
         # reference :
