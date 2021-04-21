@@ -23,7 +23,6 @@ def main(args):
     print()
 
     net = Solver(args)
-    #net.load_checkpoint()
     if args.mode == 'train' : net.train()
     elif args.mode == 'test' : net.test(save_ckpt=False)
     else : return 0
@@ -35,10 +34,10 @@ if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(description='TOY VIB')
     print(1)
-    parser.add_argument('--epoch', default =100, type=int, help='epoch size')
+    #parser.add_argument('--epoch', default =100, type=int, help='epoch size')
     parser.add_argument('--lr', default = 1e-4, type=float, help='learning rate')
     print(2)
-    parser.add_argument('--beta', default = 8e-5, type=float, help='beta')
+    #parser.add_argument('--beta', default = 8e-5, type=float, help='beta')
     parser.add_argument('--K', default = 256, type=int, help='dimension of encoding Z')
     parser.add_argument('--seed', default = 1, type=int, help='random seed')
     parser.add_argument('--num_avg', default = 12, type=int, help='the number of samples when\
@@ -55,6 +54,17 @@ if __name__ == "__main__":
     print(4)
     parser.add_argument('--mode',default='train', type=str, help='train or test')
     parser.add_argument('--tensorboard',default=False, type=str2bool, help='enable tensorboard')
+    #args = parser.parse_args()
+    parser.add_argument('--epoch', default=100, type=int, help='epoch size')
+    parser.add_argument('--beta', default=1e-7, type=float, help='beta')
     args = parser.parse_args()
-
-    main(args)
+    '''for be in [1e-3,1e-4]:
+        args.epoch=100
+        args.beta=be
+        main(args)'''
+    for be in [5e-4,1e-4,5e-5,1e-5,1e-6,1e-7,1e-8]:
+    #for be in [1e-8]:
+        args.epoch = 50
+        args.beta = be
+        main(args)
+    #main(args)
