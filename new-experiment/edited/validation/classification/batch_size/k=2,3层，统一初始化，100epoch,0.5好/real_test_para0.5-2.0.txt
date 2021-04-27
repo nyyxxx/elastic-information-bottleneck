@@ -1,0 +1,1200 @@
+Parameter containing:
+tensor([[-1.0733, -0.7153],
+        [-1.4073,  1.6210]], requires_grad=True)
+Parameter containing:
+tensor([ 0.0353, -0.0353], requires_grad=True)
+
+Parameter containing:
+tensor([[-1.0733, -0.7153],
+        [-1.4073,  1.6210]], requires_grad=True)
+Parameter containing:
+tensor([ 0.0353, -0.0353], requires_grad=True)
+
+Parameter containing:
+tensor([[-1.1780, -0.8495],
+        [-1.3026,  1.7553]], requires_grad=True)
+Parameter containing:
+tensor([ 0.1624, -0.1624], requires_grad=True)
+
+Parameter containing:
+tensor([[-1.1780, -0.8495],
+        [-1.3026,  1.7553]], requires_grad=True)
+Parameter containing:
+tensor([ 0.1624, -0.1624], requires_grad=True)
+
+Parameter containing:
+tensor([[-1.3242, -1.0428],
+        [-1.1564,  1.9485]], requires_grad=True)
+Parameter containing:
+tensor([ 0.3355, -0.3355], requires_grad=True)
+
+Parameter containing:
+tensor([[-1.3242, -1.0428],
+        [-1.1564,  1.9485]], requires_grad=True)
+Parameter containing:
+tensor([ 0.3355, -0.3355], requires_grad=True)
+
+Parameter containing:
+tensor([[-1.4873, -1.2693],
+        [-0.9933,  2.1750]], requires_grad=True)
+Parameter containing:
+tensor([ 0.5297, -0.5297], requires_grad=True)
+
+Parameter containing:
+tensor([[-1.4873, -1.2693],
+        [-0.9933,  2.1750]], requires_grad=True)
+Parameter containing:
+tensor([ 0.5297, -0.5297], requires_grad=True)
+
+Parameter containing:
+tensor([[-1.6548, -1.5122],
+        [-0.8258,  2.4179]], requires_grad=True)
+Parameter containing:
+tensor([ 0.7309, -0.7309], requires_grad=True)
+
+Parameter containing:
+tensor([[-1.6548, -1.5122],
+        [-0.8258,  2.4179]], requires_grad=True)
+Parameter containing:
+tensor([ 0.7309, -0.7309], requires_grad=True)
+
+Parameter containing:
+tensor([[-1.8206, -1.7615],
+        [-0.6600,  2.6672]], requires_grad=True)
+Parameter containing:
+tensor([ 0.9313, -0.9313], requires_grad=True)
+
+Parameter containing:
+tensor([[-1.8206, -1.7615],
+        [-0.6600,  2.6672]], requires_grad=True)
+Parameter containing:
+tensor([ 0.9313, -0.9313], requires_grad=True)
+
+Parameter containing:
+tensor([[-1.9814, -2.0109],
+        [-0.4992,  2.9166]], requires_grad=True)
+Parameter containing:
+tensor([ 1.1269, -1.1269], requires_grad=True)
+
+Parameter containing:
+tensor([[-1.9814, -2.0109],
+        [-0.4992,  2.9166]], requires_grad=True)
+Parameter containing:
+tensor([ 1.1269, -1.1269], requires_grad=True)
+
+Parameter containing:
+tensor([[-2.1373, -2.2586],
+        [-0.3433,  3.1643]], requires_grad=True)
+Parameter containing:
+tensor([ 1.3136, -1.3136], requires_grad=True)
+
+Parameter containing:
+tensor([[-2.1373, -2.2586],
+        [-0.3433,  3.1643]], requires_grad=True)
+Parameter containing:
+tensor([ 1.3136, -1.3136], requires_grad=True)
+
+Parameter containing:
+tensor([[-2.2862, -2.5009],
+        [-0.1944,  3.4067]], requires_grad=True)
+Parameter containing:
+tensor([ 1.4931, -1.4931], requires_grad=True)
+
+Parameter containing:
+tensor([[-2.2862, -2.5009],
+        [-0.1944,  3.4067]], requires_grad=True)
+Parameter containing:
+tensor([ 1.4931, -1.4931], requires_grad=True)
+
+Parameter containing:
+tensor([[-2.4273, -2.7356],
+        [-0.0533,  3.6413]], requires_grad=True)
+Parameter containing:
+tensor([ 1.6641, -1.6641], requires_grad=True)
+
+Parameter containing:
+tensor([[-2.4273, -2.7356],
+        [-0.0533,  3.6413]], requires_grad=True)
+Parameter containing:
+tensor([ 1.6641, -1.6641], requires_grad=True)
+
+Parameter containing:
+tensor([[-2.5601, -2.9611],
+        [ 0.0795,  3.8669]], requires_grad=True)
+Parameter containing:
+tensor([ 1.8263, -1.8263], requires_grad=True)
+
+Parameter containing:
+tensor([[-2.5601, -2.9611],
+        [ 0.0795,  3.8669]], requires_grad=True)
+Parameter containing:
+tensor([ 1.8263, -1.8263], requires_grad=True)
+
+Parameter containing:
+tensor([[-2.6848, -3.1770],
+        [ 0.2042,  4.0827]], requires_grad=True)
+Parameter containing:
+tensor([ 1.9794, -1.9794], requires_grad=True)
+
+Parameter containing:
+tensor([[-2.6848, -3.1770],
+        [ 0.2042,  4.0827]], requires_grad=True)
+Parameter containing:
+tensor([ 1.9794, -1.9794], requires_grad=True)
+
+Parameter containing:
+tensor([[-2.8023, -3.3836],
+        [ 0.3216,  4.2893]], requires_grad=True)
+Parameter containing:
+tensor([ 2.1228, -2.1228], requires_grad=True)
+
+Parameter containing:
+tensor([[-2.8023, -3.3836],
+        [ 0.3216,  4.2893]], requires_grad=True)
+Parameter containing:
+tensor([ 2.1228, -2.1228], requires_grad=True)
+
+Parameter containing:
+tensor([[-2.9123, -3.5805],
+        [ 0.4317,  4.4862]], requires_grad=True)
+Parameter containing:
+tensor([ 2.2575, -2.2575], requires_grad=True)
+
+Parameter containing:
+tensor([[-2.9123, -3.5805],
+        [ 0.4317,  4.4862]], requires_grad=True)
+Parameter containing:
+tensor([ 2.2575, -2.2575], requires_grad=True)
+
+Parameter containing:
+tensor([[-3.0154, -3.7678],
+        [ 0.5348,  4.6736]], requires_grad=True)
+Parameter containing:
+tensor([ 2.3838, -2.3838], requires_grad=True)
+
+Parameter containing:
+tensor([[-3.0154, -3.7678],
+        [ 0.5348,  4.6736]], requires_grad=True)
+Parameter containing:
+tensor([ 2.3838, -2.3838], requires_grad=True)
+
+Parameter containing:
+tensor([[-3.1119, -3.9460],
+        [ 0.6313,  4.8517]], requires_grad=True)
+Parameter containing:
+tensor([ 2.5020, -2.5020], requires_grad=True)
+
+Parameter containing:
+tensor([[-3.1119, -3.9460],
+        [ 0.6313,  4.8517]], requires_grad=True)
+Parameter containing:
+tensor([ 2.5020, -2.5020], requires_grad=True)
+
+Parameter containing:
+tensor([[-3.2025, -4.1156],
+        [ 0.7219,  5.0214]], requires_grad=True)
+Parameter containing:
+tensor([ 2.6122, -2.6122], requires_grad=True)
+
+Parameter containing:
+tensor([[-3.2025, -4.1156],
+        [ 0.7219,  5.0214]], requires_grad=True)
+Parameter containing:
+tensor([ 2.6122, -2.6122], requires_grad=True)
+
+Parameter containing:
+tensor([[-3.2874, -4.2770],
+        [ 0.8068,  5.1828]], requires_grad=True)
+Parameter containing:
+tensor([ 2.7155, -2.7155], requires_grad=True)
+
+Parameter containing:
+tensor([[-3.2874, -4.2770],
+        [ 0.8068,  5.1828]], requires_grad=True)
+Parameter containing:
+tensor([ 2.7155, -2.7155], requires_grad=True)
+
+Parameter containing:
+tensor([[-3.3668, -4.4303],
+        [ 0.8862,  5.3361]], requires_grad=True)
+Parameter containing:
+tensor([ 2.8123, -2.8123], requires_grad=True)
+
+Parameter containing:
+tensor([[-3.3668, -4.4303],
+        [ 0.8862,  5.3361]], requires_grad=True)
+Parameter containing:
+tensor([ 2.8123, -2.8123], requires_grad=True)
+
+Parameter containing:
+tensor([[-3.4413, -4.5762],
+        [ 0.9607,  5.4819]], requires_grad=True)
+Parameter containing:
+tensor([ 2.9030, -2.9030], requires_grad=True)
+
+Parameter containing:
+tensor([[-3.4413, -4.5762],
+        [ 0.9607,  5.4819]], requires_grad=True)
+Parameter containing:
+tensor([ 2.9030, -2.9030], requires_grad=True)
+
+Parameter containing:
+tensor([[-3.5111, -4.7149],
+        [ 1.0305,  5.6206]], requires_grad=True)
+Parameter containing:
+tensor([ 2.9879, -2.9879], requires_grad=True)
+
+Parameter containing:
+tensor([[-3.5111, -4.7149],
+        [ 1.0305,  5.6206]], requires_grad=True)
+Parameter containing:
+tensor([ 2.9879, -2.9879], requires_grad=True)
+
+Parameter containing:
+tensor([[-3.5766, -4.8469],
+        [ 1.0960,  5.7527]], requires_grad=True)
+Parameter containing:
+tensor([ 3.0673, -3.0673], requires_grad=True)
+
+Parameter containing:
+tensor([[-3.5766, -4.8469],
+        [ 1.0960,  5.7527]], requires_grad=True)
+Parameter containing:
+tensor([ 3.0673, -3.0673], requires_grad=True)
+
+Parameter containing:
+tensor([[-3.6385, -4.9731],
+        [ 1.1579,  5.8788]], requires_grad=True)
+Parameter containing:
+tensor([ 3.1415, -3.1415], requires_grad=True)
+
+Parameter containing:
+tensor([[-3.6385, -4.9731],
+        [ 1.1579,  5.8788]], requires_grad=True)
+Parameter containing:
+tensor([ 3.1415, -3.1415], requires_grad=True)
+
+Parameter containing:
+tensor([[-3.6966, -5.0934],
+        [ 1.2160,  5.9991]], requires_grad=True)
+Parameter containing:
+tensor([ 3.2112, -3.2112], requires_grad=True)
+
+Parameter containing:
+tensor([[-3.6966, -5.0934],
+        [ 1.2160,  5.9991]], requires_grad=True)
+Parameter containing:
+tensor([ 3.2112, -3.2112], requires_grad=True)
+
+Parameter containing:
+tensor([[-3.7513, -5.2081],
+        [ 1.2707,  6.1139]], requires_grad=True)
+Parameter containing:
+tensor([ 3.2767, -3.2767], requires_grad=True)
+
+Parameter containing:
+tensor([[-3.7513, -5.2081],
+        [ 1.2707,  6.1139]], requires_grad=True)
+Parameter containing:
+tensor([ 3.2767, -3.2767], requires_grad=True)
+
+Parameter containing:
+tensor([[-3.8029, -5.3178],
+        [ 1.3223,  6.2235]], requires_grad=True)
+Parameter containing:
+tensor([ 3.3382, -3.3382], requires_grad=True)
+
+Parameter containing:
+tensor([[-3.8029, -5.3178],
+        [ 1.3223,  6.2235]], requires_grad=True)
+Parameter containing:
+tensor([ 3.3382, -3.3382], requires_grad=True)
+
+Parameter containing:
+tensor([[-3.8517, -5.4228],
+        [ 1.3710,  6.3285]], requires_grad=True)
+Parameter containing:
+tensor([ 3.3961, -3.3961], requires_grad=True)
+
+Parameter containing:
+tensor([[-3.8517, -5.4228],
+        [ 1.3710,  6.3285]], requires_grad=True)
+Parameter containing:
+tensor([ 3.3961, -3.3961], requires_grad=True)
+
+Parameter containing:
+tensor([[-3.8977, -5.5233],
+        [ 1.4171,  6.4290]], requires_grad=True)
+Parameter containing:
+tensor([ 3.4504, -3.4504], requires_grad=True)
+
+Parameter containing:
+tensor([[-3.8977, -5.5233],
+        [ 1.4171,  6.4290]], requires_grad=True)
+Parameter containing:
+tensor([ 3.4504, -3.4504], requires_grad=True)
+
+Parameter containing:
+tensor([[-3.9415, -5.6200],
+        [ 1.4609,  6.5257]], requires_grad=True)
+Parameter containing:
+tensor([ 3.5015, -3.5015], requires_grad=True)
+
+Parameter containing:
+tensor([[-3.9415, -5.6200],
+        [ 1.4609,  6.5257]], requires_grad=True)
+Parameter containing:
+tensor([ 3.5015, -3.5015], requires_grad=True)
+
+Parameter containing:
+tensor([[-3.9830, -5.7128],
+        [ 1.5024,  6.6185]], requires_grad=True)
+Parameter containing:
+tensor([ 3.5498, -3.5498], requires_grad=True)
+
+Parameter containing:
+tensor([[-3.9830, -5.7128],
+        [ 1.5024,  6.6185]], requires_grad=True)
+Parameter containing:
+tensor([ 3.5498, -3.5498], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.0226, -5.8022],
+        [ 1.5419,  6.7080]], requires_grad=True)
+Parameter containing:
+tensor([ 3.5952, -3.5952], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.0226, -5.8022],
+        [ 1.5419,  6.7080]], requires_grad=True)
+Parameter containing:
+tensor([ 3.5952, -3.5952], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.0602, -5.8884],
+        [ 1.5796,  6.7941]], requires_grad=True)
+Parameter containing:
+tensor([ 3.6383, -3.6383], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.0602, -5.8884],
+        [ 1.5796,  6.7941]], requires_grad=True)
+Parameter containing:
+tensor([ 3.6383, -3.6383], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.0959, -5.9714],
+        [ 1.6153,  6.8771]], requires_grad=True)
+Parameter containing:
+tensor([ 3.6792, -3.6792], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.0959, -5.9714],
+        [ 1.6153,  6.8771]], requires_grad=True)
+Parameter containing:
+tensor([ 3.6792, -3.6792], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.1302, -6.0520],
+        [ 1.6496,  6.9578]], requires_grad=True)
+Parameter containing:
+tensor([ 3.7182, -3.7182], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.1302, -6.0520],
+        [ 1.6496,  6.9578]], requires_grad=True)
+Parameter containing:
+tensor([ 3.7182, -3.7182], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.1631, -6.1305],
+        [ 1.6825,  7.0362]], requires_grad=True)
+Parameter containing:
+tensor([ 3.7556, -3.7556], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.1631, -6.1305],
+        [ 1.6825,  7.0362]], requires_grad=True)
+Parameter containing:
+tensor([ 3.7556, -3.7556], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.1947, -6.2068],
+        [ 1.7141,  7.1126]], requires_grad=True)
+Parameter containing:
+tensor([ 3.7913, -3.7913], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.1947, -6.2068],
+        [ 1.7141,  7.1126]], requires_grad=True)
+Parameter containing:
+tensor([ 3.7913, -3.7913], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.2251, -6.2812],
+        [ 1.7445,  7.1869]], requires_grad=True)
+Parameter containing:
+tensor([ 3.8256, -3.8256], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.2251, -6.2812],
+        [ 1.7445,  7.1869]], requires_grad=True)
+Parameter containing:
+tensor([ 3.8256, -3.8256], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.2544, -6.3536],
+        [ 1.7738,  7.2594]], requires_grad=True)
+Parameter containing:
+tensor([ 3.8583, -3.8583], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.2544, -6.3536],
+        [ 1.7738,  7.2594]], requires_grad=True)
+Parameter containing:
+tensor([ 3.8583, -3.8583], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.2826, -6.4242],
+        [ 1.8020,  7.3300]], requires_grad=True)
+Parameter containing:
+tensor([ 3.8897, -3.8897], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.2826, -6.4242],
+        [ 1.8020,  7.3300]], requires_grad=True)
+Parameter containing:
+tensor([ 3.8897, -3.8897], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.3099, -6.4932],
+        [ 1.8293,  7.3989]], requires_grad=True)
+Parameter containing:
+tensor([ 3.9197, -3.9197], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.3099, -6.4932],
+        [ 1.8293,  7.3989]], requires_grad=True)
+Parameter containing:
+tensor([ 3.9197, -3.9197], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.3363, -6.5605],
+        [ 1.8557,  7.4663]], requires_grad=True)
+Parameter containing:
+tensor([ 3.9485, -3.9485], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.3363, -6.5605],
+        [ 1.8557,  7.4663]], requires_grad=True)
+Parameter containing:
+tensor([ 3.9485, -3.9485], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.3622, -6.6267],
+        [ 1.8816,  7.5325]], requires_grad=True)
+Parameter containing:
+tensor([ 3.9759, -3.9759], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.3622, -6.6267],
+        [ 1.8816,  7.5325]], requires_grad=True)
+Parameter containing:
+tensor([ 3.9759, -3.9759], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.3874, -6.6916],
+        [ 1.9067,  7.5974]], requires_grad=True)
+Parameter containing:
+tensor([ 4.0022, -4.0022], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.3874, -6.6916],
+        [ 1.9067,  7.5974]], requires_grad=True)
+Parameter containing:
+tensor([ 4.0022, -4.0022], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.4118, -6.7552],
+        [ 1.9312,  7.6610]], requires_grad=True)
+Parameter containing:
+tensor([ 4.0276, -4.0276], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.4118, -6.7552],
+        [ 1.9312,  7.6610]], requires_grad=True)
+Parameter containing:
+tensor([ 4.0276, -4.0276], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.4356, -6.8176],
+        [ 1.9549,  7.7233]], requires_grad=True)
+Parameter containing:
+tensor([ 4.0522, -4.0522], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.4356, -6.8176],
+        [ 1.9549,  7.7233]], requires_grad=True)
+Parameter containing:
+tensor([ 4.0522, -4.0522], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.4587, -6.8788],
+        [ 1.9781,  7.7845]], requires_grad=True)
+Parameter containing:
+tensor([ 4.0760, -4.0760], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.4587, -6.8788],
+        [ 1.9781,  7.7845]], requires_grad=True)
+Parameter containing:
+tensor([ 4.0760, -4.0760], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.4813, -6.9389],
+        [ 2.0007,  7.8446]], requires_grad=True)
+Parameter containing:
+tensor([ 4.0991, -4.0991], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.4813, -6.9389],
+        [ 2.0007,  7.8446]], requires_grad=True)
+Parameter containing:
+tensor([ 4.0991, -4.0991], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.5033, -6.9979],
+        [ 2.0227,  7.9037]], requires_grad=True)
+Parameter containing:
+tensor([ 4.1217, -4.1217], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.5033, -6.9979],
+        [ 2.0227,  7.9037]], requires_grad=True)
+Parameter containing:
+tensor([ 4.1217, -4.1217], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.5247, -7.0560],
+        [ 2.0441,  7.9617]], requires_grad=True)
+Parameter containing:
+tensor([ 4.1437, -4.1437], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.5247, -7.0560],
+        [ 2.0441,  7.9617]], requires_grad=True)
+Parameter containing:
+tensor([ 4.1437, -4.1437], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.5457, -7.1131],
+        [ 2.0650,  8.0188]], requires_grad=True)
+Parameter containing:
+tensor([ 4.1653, -4.1653], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.5457, -7.1131],
+        [ 2.0650,  8.0188]], requires_grad=True)
+Parameter containing:
+tensor([ 4.1653, -4.1653], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.5661, -7.1692],
+        [ 2.0855,  8.0750]], requires_grad=True)
+Parameter containing:
+tensor([ 4.1865, -4.1865], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.5661, -7.1692],
+        [ 2.0855,  8.0750]], requires_grad=True)
+Parameter containing:
+tensor([ 4.1865, -4.1865], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.5861, -7.2245],
+        [ 2.1055,  8.1303]], requires_grad=True)
+Parameter containing:
+tensor([ 4.2074, -4.2074], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.5861, -7.2245],
+        [ 2.1055,  8.1303]], requires_grad=True)
+Parameter containing:
+tensor([ 4.2074, -4.2074], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.6057, -7.2790],
+        [ 2.1250,  8.1848]], requires_grad=True)
+Parameter containing:
+tensor([ 4.2278, -4.2278], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.6057, -7.2790],
+        [ 2.1250,  8.1848]], requires_grad=True)
+Parameter containing:
+tensor([ 4.2278, -4.2278], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.6249, -7.3328],
+        [ 2.1443,  8.2386]], requires_grad=True)
+Parameter containing:
+tensor([ 4.2479, -4.2479], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.6249, -7.3328],
+        [ 2.1443,  8.2386]], requires_grad=True)
+Parameter containing:
+tensor([ 4.2479, -4.2479], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.6438, -7.3860],
+        [ 2.1632,  8.2917]], requires_grad=True)
+Parameter containing:
+tensor([ 4.2677, -4.2677], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.6438, -7.3860],
+        [ 2.1632,  8.2917]], requires_grad=True)
+Parameter containing:
+tensor([ 4.2677, -4.2677], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.6623, -7.4385],
+        [ 2.1817,  8.3442]], requires_grad=True)
+Parameter containing:
+tensor([ 4.2873, -4.2873], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.6623, -7.4385],
+        [ 2.1817,  8.3442]], requires_grad=True)
+Parameter containing:
+tensor([ 4.2873, -4.2873], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.6806, -7.4904],
+        [ 2.1999,  8.3961]], requires_grad=True)
+Parameter containing:
+tensor([ 4.3066, -4.3066], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.6806, -7.4904],
+        [ 2.1999,  8.3961]], requires_grad=True)
+Parameter containing:
+tensor([ 4.3066, -4.3066], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.6985, -7.5416],
+        [ 2.2178,  8.4473]], requires_grad=True)
+Parameter containing:
+tensor([ 4.3259, -4.3259], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.6985, -7.5416],
+        [ 2.2178,  8.4473]], requires_grad=True)
+Parameter containing:
+tensor([ 4.3259, -4.3259], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.7161, -7.5923],
+        [ 2.2354,  8.4980]], requires_grad=True)
+Parameter containing:
+tensor([ 4.3450, -4.3450], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.7161, -7.5923],
+        [ 2.2354,  8.4980]], requires_grad=True)
+Parameter containing:
+tensor([ 4.3450, -4.3450], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.7334, -7.6424],
+        [ 2.2528,  8.5482]], requires_grad=True)
+Parameter containing:
+tensor([ 4.3640, -4.3640], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.7334, -7.6424],
+        [ 2.2528,  8.5482]], requires_grad=True)
+Parameter containing:
+tensor([ 4.3640, -4.3640], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.7506, -7.6921],
+        [ 2.2699,  8.5979]], requires_grad=True)
+Parameter containing:
+tensor([ 4.3828, -4.3828], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.7506, -7.6921],
+        [ 2.2699,  8.5979]], requires_grad=True)
+Parameter containing:
+tensor([ 4.3828, -4.3828], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.7675, -7.7413],
+        [ 2.2869,  8.6471]], requires_grad=True)
+Parameter containing:
+tensor([ 4.4016, -4.4016], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.7675, -7.7413],
+        [ 2.2869,  8.6471]], requires_grad=True)
+Parameter containing:
+tensor([ 4.4016, -4.4016], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.7842, -7.7901],
+        [ 2.3036,  8.6959]], requires_grad=True)
+Parameter containing:
+tensor([ 4.4203, -4.4203], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.7842, -7.7901],
+        [ 2.3036,  8.6959]], requires_grad=True)
+Parameter containing:
+tensor([ 4.4203, -4.4203], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.8007, -7.8385],
+        [ 2.3201,  8.7443]], requires_grad=True)
+Parameter containing:
+tensor([ 4.4389, -4.4389], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.8007, -7.8385],
+        [ 2.3201,  8.7443]], requires_grad=True)
+Parameter containing:
+tensor([ 4.4389, -4.4389], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.8171, -7.8866],
+        [ 2.3365,  8.7924]], requires_grad=True)
+Parameter containing:
+tensor([ 4.4574, -4.4574], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.8171, -7.8866],
+        [ 2.3365,  8.7924]], requires_grad=True)
+Parameter containing:
+tensor([ 4.4574, -4.4574], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.8334, -7.9343],
+        [ 2.3527,  8.8401]], requires_grad=True)
+Parameter containing:
+tensor([ 4.4758, -4.4758], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.8334, -7.9343],
+        [ 2.3527,  8.8401]], requires_grad=True)
+Parameter containing:
+tensor([ 4.4758, -4.4758], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.8495, -7.9817],
+        [ 2.3689,  8.8875]], requires_grad=True)
+Parameter containing:
+tensor([ 4.4941, -4.4941], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.8495, -7.9817],
+        [ 2.3689,  8.8875]], requires_grad=True)
+Parameter containing:
+tensor([ 4.4941, -4.4941], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.8655, -8.0288],
+        [ 2.3849,  8.9346]], requires_grad=True)
+Parameter containing:
+tensor([ 4.5124, -4.5124], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.8655, -8.0288],
+        [ 2.3849,  8.9346]], requires_grad=True)
+Parameter containing:
+tensor([ 4.5124, -4.5124], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.8814, -8.0757],
+        [ 2.4008,  8.9814]], requires_grad=True)
+Parameter containing:
+tensor([ 4.5306, -4.5306], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.8814, -8.0757],
+        [ 2.4008,  8.9814]], requires_grad=True)
+Parameter containing:
+tensor([ 4.5306, -4.5306], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.8973, -8.1223],
+        [ 2.4166,  9.0280]], requires_grad=True)
+Parameter containing:
+tensor([ 4.5488, -4.5488], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.8973, -8.1223],
+        [ 2.4166,  9.0280]], requires_grad=True)
+Parameter containing:
+tensor([ 4.5488, -4.5488], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.9130, -8.1686],
+        [ 2.4324,  9.0744]], requires_grad=True)
+Parameter containing:
+tensor([ 4.5670, -4.5670], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.9130, -8.1686],
+        [ 2.4324,  9.0744]], requires_grad=True)
+Parameter containing:
+tensor([ 4.5670, -4.5670], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.9287, -8.2147],
+        [ 2.4480,  9.1205]], requires_grad=True)
+Parameter containing:
+tensor([ 4.5851, -4.5851], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.9287, -8.2147],
+        [ 2.4480,  9.1205]], requires_grad=True)
+Parameter containing:
+tensor([ 4.5851, -4.5851], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.9443, -8.2607],
+        [ 2.4636,  9.1664]], requires_grad=True)
+Parameter containing:
+tensor([ 4.6033, -4.6033], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.9443, -8.2607],
+        [ 2.4636,  9.1664]], requires_grad=True)
+Parameter containing:
+tensor([ 4.6033, -4.6033], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.9599, -8.3069],
+        [ 2.4793,  9.2127]], requires_grad=True)
+Parameter containing:
+tensor([ 4.6217, -4.6217], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.9599, -8.3069],
+        [ 2.4793,  9.2127]], requires_grad=True)
+Parameter containing:
+tensor([ 4.6217, -4.6217], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.9756, -8.3534],
+        [ 2.4949,  9.2591]], requires_grad=True)
+Parameter containing:
+tensor([ 4.6404, -4.6404], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.9756, -8.3534],
+        [ 2.4949,  9.2591]], requires_grad=True)
+Parameter containing:
+tensor([ 4.6404, -4.6404], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.9911, -8.3998],
+        [ 2.5105,  9.3056]], requires_grad=True)
+Parameter containing:
+tensor([ 4.6594, -4.6594], requires_grad=True)
+
+Parameter containing:
+tensor([[-4.9911, -8.3998],
+        [ 2.5105,  9.3056]], requires_grad=True)
+Parameter containing:
+tensor([ 4.6594, -4.6594], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.0068, -8.4465],
+        [ 2.5261,  9.3523]], requires_grad=True)
+Parameter containing:
+tensor([ 4.6784, -4.6784], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.0068, -8.4465],
+        [ 2.5261,  9.3523]], requires_grad=True)
+Parameter containing:
+tensor([ 4.6784, -4.6784], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.0224, -8.4933],
+        [ 2.5418,  9.3991]], requires_grad=True)
+Parameter containing:
+tensor([ 4.6974, -4.6974], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.0224, -8.4933],
+        [ 2.5418,  9.3991]], requires_grad=True)
+Parameter containing:
+tensor([ 4.6974, -4.6974], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.0381, -8.5402],
+        [ 2.5575,  9.4460]], requires_grad=True)
+Parameter containing:
+tensor([ 4.7166, -4.7166], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.0381, -8.5402],
+        [ 2.5575,  9.4460]], requires_grad=True)
+Parameter containing:
+tensor([ 4.7166, -4.7166], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.0537, -8.5871],
+        [ 2.5731,  9.4929]], requires_grad=True)
+Parameter containing:
+tensor([ 4.7360, -4.7360], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.0537, -8.5871],
+        [ 2.5731,  9.4929]], requires_grad=True)
+Parameter containing:
+tensor([ 4.7360, -4.7360], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.0694, -8.6340],
+        [ 2.5888,  9.5398]], requires_grad=True)
+Parameter containing:
+tensor([ 4.7554, -4.7554], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.0694, -8.6340],
+        [ 2.5888,  9.5398]], requires_grad=True)
+Parameter containing:
+tensor([ 4.7554, -4.7554], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.0851, -8.6809],
+        [ 2.6045,  9.5867]], requires_grad=True)
+Parameter containing:
+tensor([ 4.7748, -4.7748], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.0851, -8.6809],
+        [ 2.6045,  9.5867]], requires_grad=True)
+Parameter containing:
+tensor([ 4.7748, -4.7748], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.1008, -8.7278],
+        [ 2.6202,  9.6336]], requires_grad=True)
+Parameter containing:
+tensor([ 4.7943, -4.7943], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.1008, -8.7278],
+        [ 2.6202,  9.6336]], requires_grad=True)
+Parameter containing:
+tensor([ 4.7943, -4.7943], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.1165, -8.7747],
+        [ 2.6359,  9.6805]], requires_grad=True)
+Parameter containing:
+tensor([ 4.8139, -4.8139], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.1165, -8.7747],
+        [ 2.6359,  9.6805]], requires_grad=True)
+Parameter containing:
+tensor([ 4.8139, -4.8139], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.1323, -8.8216],
+        [ 2.6516,  9.7274]], requires_grad=True)
+Parameter containing:
+tensor([ 4.8334, -4.8334], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.1323, -8.8216],
+        [ 2.6516,  9.7274]], requires_grad=True)
+Parameter containing:
+tensor([ 4.8334, -4.8334], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.1480, -8.8685],
+        [ 2.6674,  9.7742]], requires_grad=True)
+Parameter containing:
+tensor([ 4.8530, -4.8530], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.1480, -8.8685],
+        [ 2.6674,  9.7742]], requires_grad=True)
+Parameter containing:
+tensor([ 4.8530, -4.8530], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.1638, -8.9153],
+        [ 2.6832,  9.8210]], requires_grad=True)
+Parameter containing:
+tensor([ 4.8726, -4.8726], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.1638, -8.9153],
+        [ 2.6832,  9.8210]], requires_grad=True)
+Parameter containing:
+tensor([ 4.8726, -4.8726], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.1796, -8.9620],
+        [ 2.6990,  9.8678]], requires_grad=True)
+Parameter containing:
+tensor([ 4.8922, -4.8922], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.1796, -8.9620],
+        [ 2.6990,  9.8678]], requires_grad=True)
+Parameter containing:
+tensor([ 4.8922, -4.8922], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.1955, -9.0088],
+        [ 2.7149,  9.9146]], requires_grad=True)
+Parameter containing:
+tensor([ 4.9117, -4.9116], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.1955, -9.0088],
+        [ 2.7149,  9.9146]], requires_grad=True)
+Parameter containing:
+tensor([ 4.9117, -4.9116], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.2114, -9.0555],
+        [ 2.7309,  9.9613]], requires_grad=True)
+Parameter containing:
+tensor([ 4.9311, -4.9311], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.2114, -9.0555],
+        [ 2.7309,  9.9613]], requires_grad=True)
+Parameter containing:
+tensor([ 4.9311, -4.9311], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.2274, -9.1022],
+        [ 2.7468, 10.0080]], requires_grad=True)
+Parameter containing:
+tensor([ 4.9506, -4.9505], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.2274, -9.1022],
+        [ 2.7468, 10.0080]], requires_grad=True)
+Parameter containing:
+tensor([ 4.9506, -4.9505], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.2434, -9.1488],
+        [ 2.7628, 10.0546]], requires_grad=True)
+Parameter containing:
+tensor([ 4.9700, -4.9699], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.2434, -9.1488],
+        [ 2.7628, 10.0546]], requires_grad=True)
+Parameter containing:
+tensor([ 4.9700, -4.9699], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.2595, -9.1953],
+        [ 2.7789, 10.1011]], requires_grad=True)
+Parameter containing:
+tensor([ 4.9894, -4.9893], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.2595, -9.1953],
+        [ 2.7789, 10.1011]], requires_grad=True)
+Parameter containing:
+tensor([ 4.9894, -4.9893], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.2756, -9.2418],
+        [ 2.7950, 10.1476]], requires_grad=True)
+Parameter containing:
+tensor([ 5.0087, -5.0086], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.2756, -9.2418],
+        [ 2.7950, 10.1476]], requires_grad=True)
+Parameter containing:
+tensor([ 5.0087, -5.0086], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.2918, -9.2883],
+        [ 2.8112, 10.1941]], requires_grad=True)
+Parameter containing:
+tensor([ 5.0280, -5.0279], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.2918, -9.2883],
+        [ 2.8112, 10.1941]], requires_grad=True)
+Parameter containing:
+tensor([ 5.0280, -5.0279], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.3076, -9.3349],
+        [ 2.8270, 10.2407]], requires_grad=True)
+Parameter containing:
+tensor([ 5.0486, -5.0484], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.3076, -9.3349],
+        [ 2.8270, 10.2407]], requires_grad=True)
+Parameter containing:
+tensor([ 5.0486, -5.0484], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.3221, -9.3823],
+        [ 2.8416, 10.2881]], requires_grad=True)
+Parameter containing:
+tensor([ 5.0728, -5.0726], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.3221, -9.3823],
+        [ 2.8416, 10.2881]], requires_grad=True)
+Parameter containing:
+tensor([ 5.0728, -5.0726], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.3359, -9.4306],
+        [ 2.8553, 10.3365]], requires_grad=True)
+Parameter containing:
+tensor([ 5.0992, -5.0991], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.3359, -9.4306],
+        [ 2.8553, 10.3365]], requires_grad=True)
+Parameter containing:
+tensor([ 5.0992, -5.0991], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.3493, -9.4799],
+        [ 2.8687, 10.3857]], requires_grad=True)
+Parameter containing:
+tensor([ 5.1268, -5.1266], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.3493, -9.4799],
+        [ 2.8687, 10.3857]], requires_grad=True)
+Parameter containing:
+tensor([ 5.1268, -5.1266], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.3626, -9.5300],
+        [ 2.8820, 10.4358]], requires_grad=True)
+Parameter containing:
+tensor([ 5.1548, -5.1546], requires_grad=True)
+
+Parameter containing:
+tensor([[-5.3626, -9.5300],
+        [ 2.8820, 10.4358]], requires_grad=True)
+Parameter containing:
+tensor([ 5.1548, -5.1546], requires_grad=True)
+

@@ -1,0 +1,106 @@
+[ARGUMENTS]
+Namespace(K=64, batch_size=100, beta=0.001, ckpt_dir='checkpoints', cuda=True, dataset='MNIST', dset_dir='datasets', env_name='main', epoch=50, load_ckpt='', lr=0.0001, mode='train', num_avg=12, seed=1, summary_dir='summary', tensorboard=False)
+
+C:\study\codes\git\elastic-information-bottleneck\new-experiment\edited\model.py:75: UserWarning: nn.init.xavier_uniform is now deprecated in favor of nn.init.xavier_uniform_.
+  nn.init.xavier_uniform(m.weight,gain=nn.init.calculate_gain('relu'))
+ class_loss:67.32 info_loss:67.32total_loss:10290.38  class_loss:52.33 info_loss:52.33total_loss:10674.16  class_loss:93.09 info_loss:93.09total_loss:18338.18  class_loss:46.66 info_loss:46.66total_loss:12435.49  class_loss:52.23 info_loss:52.23total_loss:13972.99 [TEST RESULT]
+ e:1  class_loss:1.44 info_loss:1.44 total_loss:78016.96 
+ class_loss:18.48 info_loss:18.48total_loss:3501.85  class_loss:28.99 info_loss:28.99total_loss:22655.38  class_loss:48.73 info_loss:48.73total_loss:11450.68  class_loss:52.90 info_loss:52.90total_loss:5667.76  class_loss:64.99 info_loss:64.99total_loss:6336.02 [TEST RESULT]
+ e:2  class_loss:1.08 info_loss:1.08 total_loss:29987.33 
+ class_loss:52.67 info_loss:52.67total_loss:7435.59  class_loss:58.85 info_loss:58.85total_loss:6309.34  class_loss:120.98 info_loss:120.98total_loss:11142.15  class_loss:32.45 info_loss:32.45total_loss:6206.43  class_loss:93.31 info_loss:93.31total_loss:6549.88 [TEST RESULT]
+ e:3  class_loss:0.92 info_loss:0.92 total_loss:13361.73 
+ class_loss:18.98 info_loss:18.98total_loss:2253.66  class_loss:38.89 info_loss:38.89total_loss:10283.14  class_loss:42.84 info_loss:42.84total_loss:7515.07  class_loss:45.32 info_loss:45.32total_loss:3885.78  class_loss:68.90 info_loss:68.90total_loss:4218.65 [TEST RESULT]
+ e:4  class_loss:1.17 info_loss:1.17 total_loss:10481.81 
+ class_loss:50.13 info_loss:50.13total_loss:5195.72  class_loss:58.62 info_loss:58.62total_loss:4083.85  class_loss:116.65 info_loss:116.65total_loss:7403.49  class_loss:27.94 info_loss:27.94total_loss:4247.89  class_loss:92.72 info_loss:92.72total_loss:4382.00 [TEST RESULT]
+ e:5  class_loss:1.29 info_loss:1.29 total_loss:7980.04 
+ class_loss:17.87 info_loss:17.87total_loss:1420.19  class_loss:48.50 info_loss:48.50total_loss:5618.74  class_loss:39.95 info_loss:39.95total_loss:5556.63  class_loss:47.83 info_loss:47.83total_loss:2521.37  class_loss:67.44 info_loss:67.44total_loss:2645.48 [TEST RESULT]
+ e:6  class_loss:1.33 info_loss:1.33 total_loss:6354.35 
+ class_loss:53.75 info_loss:53.75total_loss:3405.02  class_loss:52.52 info_loss:52.52total_loss:2621.40  class_loss:100.82 info_loss:100.82total_loss:4586.40  class_loss:23.43 info_loss:23.43total_loss:2911.16  class_loss:80.67 info_loss:80.67total_loss:2658.20 [TEST RESULT]
+ e:7  class_loss:1.15 info_loss:1.15 total_loss:5190.60 
+ class_loss:17.46 info_loss:17.46total_loss:839.61  class_loss:47.05 info_loss:47.05total_loss:3530.20  class_loss:35.00 info_loss:35.00total_loss:3867.38  class_loss:47.53 info_loss:47.53total_loss:1593.47  class_loss:68.80 info_loss:68.80total_loss:1612.98 [TEST RESULT]
+ e:8  class_loss:1.33 info_loss:1.33 total_loss:4333.41 
+ class_loss:51.58 info_loss:51.58total_loss:2186.22  class_loss:51.25 info_loss:51.25total_loss:1551.26  class_loss:101.90 info_loss:101.90total_loss:2784.68  class_loss:22.75 info_loss:22.75total_loss:2045.51  class_loss:75.46 info_loss:75.46total_loss:1660.55 [TEST RESULT]
+ e:9  class_loss:1.25 info_loss:1.25 total_loss:3585.83 
+ class_loss:15.81 info_loss:15.81total_loss:464.67  class_loss:43.11 info_loss:43.11total_loss:2131.14  class_loss:30.86 info_loss:30.86total_loss:2763.41  class_loss:46.38 info_loss:46.38total_loss:989.53  class_loss:64.95 info_loss:64.95total_loss:913.44 [TEST RESULT]
+ e:10  class_loss:1.27 info_loss:1.27 total_loss:2957.44 
+ class_loss:51.30 info_loss:51.30total_loss:1379.61  class_loss:43.96 info_loss:43.96total_loss:1006.97  class_loss:88.69 info_loss:88.69total_loss:1518.32  class_loss:18.84 info_loss:18.84total_loss:1346.88  class_loss:68.96 info_loss:68.96total_loss:1024.80 [TEST RESULT]
+ e:11  class_loss:1.21 info_loss:1.21 total_loss:2436.19 
+ class_loss:13.99 info_loss:13.99total_loss:255.50  class_loss:39.60 info_loss:39.60total_loss:1228.52  class_loss:28.20 info_loss:28.20total_loss:2065.03  class_loss:42.16 info_loss:42.16total_loss:598.07  class_loss:62.57 info_loss:62.57total_loss:521.07 [TEST RESULT]
+ e:12  class_loss:1.12 info_loss:1.12 total_loss:1977.58 
+ class_loss:45.93 info_loss:45.93total_loss:801.60  class_loss:40.18 info_loss:40.18total_loss:667.32  class_loss:77.53 info_loss:77.53total_loss:787.07  class_loss:15.95 info_loss:15.95total_loss:868.65  class_loss:63.78 info_loss:63.78total_loss:621.70 [TEST RESULT]
+ e:13  class_loss:1.10 info_loss:1.10 total_loss:1618.82 
+ class_loss:12.20 info_loss:12.20total_loss:163.46  class_loss:36.03 info_loss:36.03total_loss:695.07  class_loss:24.52 info_loss:24.52total_loss:1472.49  class_loss:38.16 info_loss:38.16total_loss:378.49  class_loss:56.78 info_loss:56.78total_loss:298.97 [TEST RESULT]
+ e:14  class_loss:1.05 info_loss:1.05 total_loss:1327.72 
+ class_loss:41.58 info_loss:41.58total_loss:463.55  class_loss:37.88 info_loss:37.88total_loss:433.03  class_loss:66.10 info_loss:66.10total_loss:433.13  class_loss:13.52 info_loss:13.52total_loss:554.11  class_loss:60.68 info_loss:60.68total_loss:393.96 [TEST RESULT]
+ e:15  class_loss:0.98 info_loss:0.98 total_loss:1086.84 
+ class_loss:10.55 info_loss:10.55total_loss:140.63  class_loss:29.74 info_loss:29.74total_loss:399.02  class_loss:21.24 info_loss:21.24total_loss:1033.01  class_loss:34.76 info_loss:34.76total_loss:271.58  class_loss:53.15 info_loss:53.15total_loss:209.10 [TEST RESULT]
+ e:16  class_loss:0.93 info_loss:0.93 total_loss:887.81 
+ class_loss:37.90 info_loss:37.90total_loss:286.24  class_loss:35.84 info_loss:35.84total_loss:307.17  class_loss:59.28 info_loss:59.28total_loss:308.34  class_loss:11.48 info_loss:11.48total_loss:361.71  class_loss:56.76 info_loss:56.76total_loss:274.01 [TEST RESULT]
+ e:17  class_loss:0.90 info_loss:0.90 total_loss:733.18 
+ class_loss:9.26 info_loss:9.26total_loss:142.77  class_loss:27.85 info_loss:27.85total_loss:257.24  class_loss:17.67 info_loss:17.67total_loss:682.04  class_loss:34.03 info_loss:34.03total_loss:223.48  class_loss:51.62 info_loss:51.62total_loss:174.61 [TEST RESULT]
+ e:18  class_loss:0.87 info_loss:0.87 total_loss:604.24 
+ class_loss:35.93 info_loss:35.93total_loss:203.40  class_loss:34.64 info_loss:34.64total_loss:218.02  class_loss:54.64 info_loss:54.64total_loss:272.31  class_loss:9.70 info_loss:9.70total_loss:249.77  class_loss:55.32 info_loss:55.32total_loss:204.80 [TEST RESULT]
+ e:19  class_loss:0.83 info_loss:0.83 total_loss:501.25 
+ class_loss:8.74 info_loss:8.74total_loss:124.79  class_loss:25.32 info_loss:25.32total_loss:179.42  class_loss:14.71 info_loss:14.71total_loss:450.04  class_loss:32.21 info_loss:32.21total_loss:175.41  class_loss:50.37 info_loss:50.37total_loss:150.66 [TEST RESULT]
+ e:20  class_loss:0.84 info_loss:0.84 total_loss:414.19 
+ class_loss:32.09 info_loss:32.09total_loss:146.88  class_loss:33.04 info_loss:33.04total_loss:157.68  class_loss:50.36 info_loss:50.36total_loss:224.44  class_loss:8.35 info_loss:8.35total_loss:179.65  class_loss:52.30 info_loss:52.30total_loss:158.03 [TEST RESULT]
+ e:21  class_loss:0.82 info_loss:0.82 total_loss:342.30 
+ class_loss:7.99 info_loss:7.99total_loss:102.59  class_loss:22.36 info_loss:22.36total_loss:128.15  class_loss:12.20 info_loss:12.20total_loss:301.60  class_loss:30.13 info_loss:30.13total_loss:138.19  class_loss:47.58 info_loss:47.58total_loss:129.92 [TEST RESULT]
+ e:22  class_loss:0.82 info_loss:0.82 total_loss:284.72 
+ class_loss:27.73 info_loss:27.73total_loss:110.27  class_loss:29.90 info_loss:29.90total_loss:119.11  class_loss:44.48 info_loss:44.48total_loss:172.01  class_loss:6.54 info_loss:6.54total_loss:128.77  class_loss:46.17 info_loss:46.17total_loss:121.26 [TEST RESULT]
+ e:23  class_loss:0.78 info_loss:0.78 total_loss:237.26 
+ class_loss:6.99 info_loss:6.99total_loss:80.37  class_loss:18.10 info_loss:18.10total_loss:90.21  class_loss:9.48 info_loss:9.48total_loss:200.23  class_loss:25.86 info_loss:25.86total_loss:103.37  class_loss:42.22 info_loss:42.22total_loss:107.74 [TEST RESULT]
+ e:24  class_loss:0.73 info_loss:0.73 total_loss:196.83 
+ class_loss:22.78 info_loss:22.78total_loss:84.97  class_loss:24.40 info_loss:24.40total_loss:91.26  class_loss:37.38 info_loss:37.38total_loss:119.17  class_loss:4.60 info_loss:4.60total_loss:87.72  class_loss:36.59 info_loss:36.59total_loss:88.99 [TEST RESULT]
+ e:25  class_loss:0.67 info_loss:0.67 total_loss:163.90 
+ class_loss:5.05 info_loss:5.05total_loss:60.85  class_loss:11.65 info_loss:11.65total_loss:59.27  class_loss:6.41 info_loss:6.41total_loss:123.47  class_loss:19.76 info_loss:19.76total_loss:73.41  class_loss:32.89 info_loss:32.89total_loss:77.68 [TEST RESULT]
+ e:26  class_loss:0.60 info_loss:0.60 total_loss:135.23 
+ class_loss:15.24 info_loss:15.24total_loss:60.02  class_loss:16.37 info_loss:16.37total_loss:65.97  class_loss:25.46 info_loss:25.46total_loss:76.81  class_loss:2.24 info_loss:2.24total_loss:53.16  class_loss:23.03 info_loss:23.03total_loss:56.55 [TEST RESULT]
+ e:27  class_loss:0.50 info_loss:0.50 total_loss:109.67 
+ class_loss:2.68 info_loss:2.68total_loss:42.61  class_loss:4.28 info_loss:4.28total_loss:33.78  class_loss:3.41 info_loss:3.41total_loss:71.46  class_loss:11.12 info_loss:11.12total_loss:42.50  class_loss:20.82 info_loss:20.82total_loss:47.97 [TEST RESULT]
+ e:28  class_loss:0.40 info_loss:0.40 total_loss:87.65 
+ class_loss:7.29 info_loss:7.29total_loss:37.69  class_loss:7.92 info_loss:7.92total_loss:43.65  class_loss:13.05 info_loss:13.05total_loss:41.81  class_loss:0.40 info_loss:0.40total_loss:29.08  class_loss:11.27 info_loss:11.27total_loss:29.90 [TEST RESULT]
+ e:29  class_loss:0.31 info_loss:0.31 total_loss:69.33 
+ class_loss:0.80 info_loss:0.80total_loss:27.27  class_loss:0.37 info_loss:0.37total_loss:16.80  class_loss:1.19 info_loss:1.19total_loss:40.69  class_loss:4.54 info_loss:4.54total_loss:21.72  class_loss:10.69 info_loss:10.69total_loss:26.24 [TEST RESULT]
+ e:30  class_loss:0.20 info_loss:0.20 total_loss:53.30 
+ class_loss:2.28 info_loss:2.28total_loss:22.87  class_loss:2.27 info_loss:2.27total_loss:24.71  class_loss:3.93 info_loss:3.93total_loss:20.02  class_loss:0.04 info_loss:0.04total_loss:16.29  class_loss:3.74 info_loss:3.74total_loss:13.59 [TEST RESULT]
+ e:31  class_loss:0.12 info_loss:0.12 total_loss:40.71 
+ class_loss:0.04 info_loss:0.04total_loss:16.93  class_loss:1.05 info_loss:1.05total_loss:9.30  class_loss:0.09 info_loss:0.09total_loss:22.12  class_loss:1.01 info_loss:1.01total_loss:10.36  class_loss:4.54 info_loss:4.54total_loss:13.35 [TEST RESULT]
+ e:32  class_loss:0.05 info_loss:0.05 total_loss:31.02 
+ class_loss:0.29 info_loss:0.29total_loss:13.51  class_loss:0.30 info_loss:0.30total_loss:12.92  class_loss:0.82 info_loss:0.82total_loss:8.50  class_loss:0.52 info_loss:0.52total_loss:11.00  class_loss:0.97 info_loss:0.97total_loss:6.34 [TEST RESULT]
+ e:33  class_loss:0.03 info_loss:0.03 total_loss:23.83 
+ class_loss:0.06 info_loss:0.06total_loss:11.19  class_loss:3.12 info_loss:3.12total_loss:7.93  class_loss:0.01 info_loss:0.01total_loss:16.82  class_loss:0.18 info_loss:0.18total_loss:5.76  class_loss:2.60 info_loss:2.60total_loss:8.06 [TEST RESULT]
+ e:34  class_loss:0.01 info_loss:0.01 total_loss:18.80 
+ class_loss:0.01 info_loss:0.01total_loss:8.82  class_loss:0.01 info_loss:0.01total_loss:7.31  class_loss:0.19 info_loss:0.19total_loss:4.21  class_loss:0.68 info_loss:0.68total_loss:8.70  class_loss:0.40 info_loss:0.40total_loss:3.47 [TEST RESULT]
+ e:35  class_loss:0.00 info_loss:0.00 total_loss:15.40 
+ class_loss:0.10 info_loss:0.10total_loss:7.67  class_loss:4.82 info_loss:4.82total_loss:7.58  class_loss:0.00 info_loss:0.00total_loss:12.90  class_loss:0.06 info_loss:0.06total_loss:3.75  class_loss:2.22 info_loss:2.22total_loss:5.90 [TEST RESULT]
+ e:36  class_loss:0.00 info_loss:0.00 total_loss:12.88 
+ class_loss:0.00 info_loss:0.00total_loss:6.29  class_loss:0.00 info_loss:0.00total_loss:4.58  class_loss:0.08 info_loss:0.08total_loss:2.48  class_loss:0.57 info_loss:0.57total_loss:7.20  class_loss:0.32 info_loss:0.32total_loss:2.25 [TEST RESULT]
+ e:37  class_loss:0.00 info_loss:0.00 total_loss:10.81 
+ class_loss:0.14 info_loss:0.14total_loss:5.71  class_loss:4.84 info_loss:4.84total_loss:6.70  class_loss:0.03 info_loss:0.03total_loss:11.15  class_loss:0.02 info_loss:0.02total_loss:2.55  class_loss:1.91 info_loss:1.91total_loss:4.39 [TEST RESULT]
+ e:38  class_loss:0.01 info_loss:0.01 total_loss:9.33 
+ class_loss:0.04 info_loss:0.04total_loss:5.38  class_loss:0.00 info_loss:0.00total_loss:3.00  class_loss:0.18 info_loss:0.18total_loss:1.57  class_loss:0.57 info_loss:0.57total_loss:5.59  class_loss:0.26 info_loss:0.26total_loss:1.57 [TEST RESULT]
+ e:39  class_loss:0.01 info_loss:0.01 total_loss:8.06 
+ class_loss:0.13 info_loss:0.13total_loss:4.25  class_loss:6.13 info_loss:6.13total_loss:7.31  class_loss:0.11 info_loss:0.11total_loss:9.90  class_loss:0.00 info_loss:0.00total_loss:1.79  class_loss:1.60 info_loss:1.60total_loss:3.29 [TEST RESULT]
+ e:40  class_loss:0.00 info_loss:0.00 total_loss:7.17 
+ class_loss:0.06 info_loss:0.06total_loss:4.10  class_loss:0.00 info_loss:0.00total_loss:2.11  class_loss:0.24 info_loss:0.24total_loss:1.15  class_loss:0.45 info_loss:0.45total_loss:4.38  class_loss:0.24 info_loss:0.24total_loss:1.14 [TEST RESULT]
+ e:41  class_loss:0.01 info_loss:0.01 total_loss:6.25 
+ class_loss:0.13 info_loss:0.13total_loss:3.20  class_loss:5.00 info_loss:5.00total_loss:5.88  class_loss:0.19 info_loss:0.19total_loss:8.34  class_loss:0.00 info_loss:0.00total_loss:1.31  class_loss:1.72 info_loss:1.72total_loss:2.97 [TEST RESULT]
+ e:42  class_loss:0.01 info_loss:0.01 total_loss:5.51 
+ class_loss:0.16 info_loss:0.16total_loss:3.55  class_loss:0.01 info_loss:0.01total_loss:1.49  class_loss:0.36 info_loss:0.36total_loss:0.98  class_loss:0.37 info_loss:0.37total_loss:3.48  class_loss:0.26 info_loss:0.26total_loss:0.90 [TEST RESULT]
+ e:43  class_loss:0.01 info_loss:0.01 total_loss:4.91 
+ class_loss:0.16 info_loss:0.16total_loss:2.49  class_loss:4.52 info_loss:4.52total_loss:5.19  class_loss:0.25 info_loss:0.25total_loss:6.65  class_loss:0.01 info_loss:0.01total_loss:0.95  class_loss:1.61 info_loss:1.61total_loss:2.53 [TEST RESULT]
+ e:44  class_loss:0.01 info_loss:0.01 total_loss:4.41 
+ class_loss:0.09 info_loss:0.09total_loss:2.53  class_loss:0.02 info_loss:0.02total_loss:1.11  class_loss:0.47 info_loss:0.47total_loss:0.93  class_loss:0.49 info_loss:0.49total_loss:2.91  class_loss:0.09 info_loss:0.09total_loss:0.60 [TEST RESULT]
+ e:45  class_loss:0.01 info_loss:0.01 total_loss:3.94 
+ class_loss:0.15 info_loss:0.15total_loss:1.91  class_loss:5.72 info_loss:5.72total_loss:6.18  class_loss:0.36 info_loss:0.36total_loss:5.26  class_loss:0.00 info_loss:0.00total_loss:0.75  class_loss:1.55 info_loss:1.55total_loss:2.24 [TEST RESULT]
+ e:46  class_loss:0.01 info_loss:0.01 total_loss:3.51 
+ class_loss:0.18 info_loss:0.18total_loss:2.12  class_loss:0.01 info_loss:0.01total_loss:0.77  class_loss:0.35 info_loss:0.35total_loss:0.72  class_loss:0.45 info_loss:0.45total_loss:2.34  class_loss:0.27 info_loss:0.27total_loss:0.66 [TEST RESULT]
+ e:47  class_loss:0.01 info_loss:0.01 total_loss:3.21 
+ class_loss:0.14 info_loss:0.14total_loss:1.49  class_loss:4.74 info_loss:4.74total_loss:5.13  class_loss:0.27 info_loss:0.27total_loss:3.42  class_loss:0.00 info_loss:0.00total_loss:0.58  class_loss:1.58 info_loss:1.58total_loss:2.13 [TEST RESULT]
+ e:48  class_loss:0.01 info_loss:0.01 total_loss:2.90 
+ class_loss:0.16 info_loss:0.16total_loss:1.63  class_loss:0.03 info_loss:0.03total_loss:0.60  class_loss:0.23 info_loss:0.23total_loss:0.54  class_loss:0.48 info_loss:0.48total_loss:1.87  class_loss:0.26 info_loss:0.26total_loss:0.59 [TEST RESULT]
+ e:49  class_loss:0.01 info_loss:0.01 total_loss:2.67 
+ class_loss:0.16 info_loss:0.16total_loss:1.19  class_loss:4.37 info_loss:4.37total_loss:4.71  class_loss:0.30 info_loss:0.30total_loss:2.61  class_loss:0.00 info_loss:0.00total_loss:0.49  class_loss:1.31 info_loss:1.31total_loss:1.75 [TEST RESULT]
+ e:50  class_loss:0.01 info_loss:0.01 total_loss:2.36 
+ [*] Training Finished!
