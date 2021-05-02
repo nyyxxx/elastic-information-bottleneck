@@ -1,0 +1,92 @@
+tensor([[0.0065, 0.0065]], grad_fn=<SoftplusBackward>)
+tensor([[0.0061, 0.0061]], grad_fn=<SoftplusBackward>)
+tensor([[0.0056, 0.0056]], grad_fn=<SoftplusBackward>)
+tensor([[0.0064, 0.0052, 0.0051, 0.0053, 0.0044]], grad_fn=<SoftplusBackward>)
+tensor([[0.0054, 0.0044, 0.0044, 0.0047, 0.0041]], grad_fn=<SoftplusBackward>)
+tensor([[0.0046, 0.0037, 0.0037, 0.0041, 0.0037]], grad_fn=<SoftplusBackward>)
+tensor([[0.0064, 0.0052, 0.0051, 0.0053, 0.0044]], grad_fn=<SoftplusBackward>)
+tensor([[0.0054, 0.0044, 0.0044, 0.0047, 0.0041]], grad_fn=<SoftplusBackward>)
+tensor([[0.0046, 0.0037, 0.0037, 0.0041, 0.0037]], grad_fn=<SoftplusBackward>)
+tensor([[0.0037, 0.0030, 0.0030, 0.0033, 0.0033]], grad_fn=<SoftplusBackward>)
+tensor([[0.0028, 0.0023, 0.0023, 0.0025, 0.0026]], grad_fn=<SoftplusBackward>)
+tensor([[0.0022, 0.0017, 0.0017, 0.0018, 0.0019]], grad_fn=<SoftplusBackward>)
+tensor([[0.0017, 0.0012, 0.0012, 0.0012, 0.0013]], grad_fn=<SoftplusBackward>)
+tensor([[0.0013, 0.0009, 0.0008, 0.0008, 0.0010]], grad_fn=<SoftplusBackward>)
+tensor([[0.0010, 0.0006, 0.0006, 0.0006, 0.0007]], grad_fn=<SoftplusBackward>)
+tensor([[0.0008, 0.0005, 0.0004, 0.0004, 0.0005]], grad_fn=<SoftplusBackward>)
+tensor([[0.0007, 0.0003, 0.0003, 0.0003, 0.0004]], grad_fn=<SoftplusBackward>)
+tensor([[0.0006, 0.0003, 0.0003, 0.0002, 0.0003]], grad_fn=<SoftplusBackward>)
+tensor([[0.0005, 0.0002, 0.0002, 0.0002, 0.0002]], grad_fn=<SoftplusBackward>)
+tensor([[0.0004, 0.0002, 0.0002, 0.0001, 0.0002]], grad_fn=<SoftplusBackward>)
+tensor([[3.6603e-04, 1.5144e-04, 1.3704e-04, 9.6368e-05, 1.6098e-04]],
+       grad_fn=<SoftplusBackward>)
+tensor([[3.2513e-04, 1.2983e-04, 1.1608e-04, 7.8096e-05, 1.3596e-04]],
+       grad_fn=<SoftplusBackward>)
+tensor([[2.9149e-04, 1.1251e-04, 9.9502e-05, 6.4467e-05, 1.1653e-04]],
+       grad_fn=<SoftplusBackward>)
+tensor([[2.6377e-04, 9.8898e-05, 8.6588e-05, 5.4232e-05, 1.0139e-04]],
+       grad_fn=<SoftplusBackward>)
+tensor([[2.4031e-04, 8.7864e-05, 7.6225e-05, 4.6294e-05, 8.9229e-05]],
+       grad_fn=<SoftplusBackward>)
+tensor([[2.2066e-04, 7.9055e-05, 6.8015e-05, 4.0198e-05, 7.9563e-05]],
+       grad_fn=<SoftplusBackward>)
+tensor([[2.0372e-04, 7.1738e-05, 6.1267e-05, 3.5330e-05, 7.1614e-05]],
+       grad_fn=<SoftplusBackward>)
+tensor([[1.8919e-04, 6.5740e-05, 5.5781e-05, 3.1463e-05, 6.5118e-05]],
+       grad_fn=<SoftplusBackward>)
+tensor([[1.7666e-04, 6.0749e-05, 5.1262e-05, 2.8357e-05, 5.9774e-05]],
+       grad_fn=<SoftplusBackward>)
+tensor([[1.6550e-04, 5.6417e-05, 4.7394e-05, 2.5756e-05, 5.5192e-05]],
+       grad_fn=<SoftplusBackward>)
+tensor([[1.5557e-04, 5.2707e-05, 4.4121e-05, 2.3582e-05, 5.1273e-05]],
+       grad_fn=<SoftplusBackward>)
+tensor([[1.4666e-04, 4.9470e-05, 4.1309e-05, 2.1746e-05, 4.7874e-05]],
+       grad_fn=<SoftplusBackward>)
+tensor([[1.3878e-04, 4.6730e-05, 3.8966e-05, 2.0226e-05, 4.4990e-05]],
+       grad_fn=<SoftplusBackward>)
+tensor([[1.3171e-04, 4.4395e-05, 3.6998e-05, 1.8952e-05, 4.2496e-05]],
+       grad_fn=<SoftplusBackward>)
+tensor([[1.2524e-04, 4.2341e-05, 3.5292e-05, 1.7867e-05, 4.0238e-05]],
+       grad_fn=<SoftplusBackward>)
+tensor([[1.1939e-04, 4.0596e-05, 3.3868e-05, 1.6973e-05, 3.8251e-05]],
+       grad_fn=<SoftplusBackward>)
+tensor([[1.1379e-04, 3.8997e-05, 3.2584e-05, 1.6162e-05, 3.6382e-05]],
+       grad_fn=<SoftplusBackward>)
+tensor([[1.0869e-04, 3.7675e-05, 3.1548e-05, 1.5500e-05, 3.4785e-05]],
+       grad_fn=<SoftplusBackward>)
+tensor([[1.0359e-04, 3.6380e-05, 3.0540e-05, 1.4841e-05, 3.3192e-05]],
+       grad_fn=<SoftplusBackward>)
+tensor([[9.8451e-05, 3.5065e-05, 2.9524e-05, 1.4164e-05, 3.1586e-05]],
+       grad_fn=<SoftplusBackward>)
+tensor([[9.3348e-05, 3.3758e-05, 2.8521e-05, 1.3486e-05, 2.9993e-05]],
+       grad_fn=<SoftplusBackward>)
+tensor([[8.8347e-05, 3.2491e-05, 2.7555e-05, 1.2820e-05, 2.8444e-05]],
+       grad_fn=<SoftplusBackward>)
+tensor([[8.3391e-05, 3.1227e-05, 2.6594e-05, 1.2148e-05, 2.6911e-05]],
+       grad_fn=<SoftplusBackward>)
+tensor([[7.8650e-05, 3.0029e-05, 2.5693e-05, 1.1515e-05, 2.5452e-05]],
+       grad_fn=<SoftplusBackward>)
+tensor([[7.3936e-05, 2.8796e-05, 2.4764e-05, 1.0864e-05, 2.3966e-05]],
+       grad_fn=<SoftplusBackward>)
+tensor([[6.9293e-05, 2.7550e-05, 2.3822e-05, 1.0208e-05, 2.2479e-05]],
+       grad_fn=<SoftplusBackward>)
+tensor([[6.4857e-05, 2.6307e-05, 2.2894e-05, 9.5884e-06, 2.1050e-05]],
+       grad_fn=<SoftplusBackward>)
+tensor([[7.2708e-05, 3.1160e-05, 2.7935e-05, 1.2767e-05, 2.5768e-05]],
+       grad_fn=<SoftplusBackward>)
+tensor([[8.9134e-05, 4.0748e-05, 3.8337e-05, 2.0133e-05, 3.6179e-05]],
+       grad_fn=<SoftplusBackward>)
+tensor([[1.0232e-04, 4.8844e-05, 4.8300e-05, 2.8062e-05, 4.6318e-05]],
+       grad_fn=<SoftplusBackward>)
+tensor([[1.1127e-04, 5.4646e-05, 5.6831e-05, 3.5416e-05, 5.5087e-05]],
+       grad_fn=<SoftplusBackward>)
+tensor([[1.1623e-04, 5.8226e-05, 6.3743e-05, 4.1685e-05, 6.2282e-05]],
+       grad_fn=<SoftplusBackward>)
+tensor([[1.1760e-04, 5.9879e-05, 6.9094e-05, 4.6654e-05, 6.7894e-05]],
+       grad_fn=<SoftplusBackward>)
+tensor([[1.1600e-04, 6.0040e-05, 7.3093e-05, 5.0362e-05, 7.2165e-05]],
+       grad_fn=<SoftplusBackward>)
+tensor([[1.1227e-04, 5.9063e-05, 7.5900e-05, 5.2869e-05, 7.5260e-05]],
+       grad_fn=<SoftplusBackward>)
+tensor([[1.0730e-04, 5.7336e-05, 7.7774e-05, 5.4417e-05, 7.7393e-05]],
+       grad_fn=<SoftplusBackward>)
