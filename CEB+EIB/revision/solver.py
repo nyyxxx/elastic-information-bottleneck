@@ -239,10 +239,10 @@ class Solver(object):
             class_loss += F.cross_entropy(logit, y).div(math.log(2))
             #info_loss += (-0.5 * alpha - alpha * std.log() + 0.5 * (mu.pow(2) + std.pow(2)) + (
             #            1 - alpha) * 0.5 * math.log(2 * math.pi)).sum(1).mean().div(math.log(2))
-            info_loss = (-0.5 * alpha - alpha * std.log() + std2.log() + 0.5 * (
+            info_loss += (-0.5 * alpha - alpha * std.log() + std2.log() + 0.5 * (
                         mu.pow(2) + mu2.pow(2) - 2 * mu* mu2 + std.pow(2))/ (std2.pow(2)) + (
                                  1 - alpha) * 0.5 * math.log(2 * math.pi)).sum(1).mean().div(math.log(2))  # ������ǲ���.* !!!
-            total_loss += class_loss + self.beta * info_loss
+            total_loss += class_loss + self.beta * info_loss#+=
             total_num += y.size(0)
 
             izy_bound += math.log(10, 2) - class_loss
