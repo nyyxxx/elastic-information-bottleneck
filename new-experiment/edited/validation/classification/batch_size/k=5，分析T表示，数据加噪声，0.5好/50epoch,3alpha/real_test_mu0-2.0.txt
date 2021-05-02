@@ -1,0 +1,100 @@
+tensor([[ 1.1109, -0.3479,  1.6100,  0.1653, -0.4000]],
+       grad_fn=<SliceBackward>)
+tensor([[ 1.0140, -0.2959,  1.4214,  0.1840, -0.3983]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.9234, -0.2461,  1.2481,  0.1935, -0.3927]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.8428, -0.2002,  1.0965,  0.1955, -0.3852]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.7729, -0.1591,  0.9667,  0.1949, -0.3772]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.7130, -0.1228,  0.8575,  0.1935, -0.3696]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.6627, -0.0919,  0.7719,  0.1892, -0.3624]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.6177, -0.0640,  0.6978,  0.1847, -0.3572]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.5773, -0.0390,  0.6327,  0.1807, -0.3533]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.5425, -0.0171,  0.5771,  0.1779, -0.3508]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.5027,  0.0054,  0.5143,  0.1771, -0.3457]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.4664,  0.0258,  0.4574,  0.1776, -0.3411]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.4340,  0.0439,  0.4071,  0.1789, -0.3372]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.4050,  0.0600,  0.3626,  0.1810, -0.3337]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.3789,  0.0743,  0.3230,  0.1835, -0.3304]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.3556,  0.0869,  0.2873,  0.1864, -0.3273]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.3350,  0.0981,  0.2553,  0.1896, -0.3245]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.3166,  0.1080,  0.2264,  0.1930, -0.3219]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.3002,  0.1168,  0.2004,  0.1964, -0.3196]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.2853,  0.1247,  0.1767,  0.1997, -0.3173]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.2719,  0.1317,  0.1552,  0.2031, -0.3151]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.2596,  0.1381,  0.1355,  0.2063, -0.3129]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.2483,  0.1438,  0.1174,  0.2094, -0.3106]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.2379,  0.1489,  0.1006,  0.2123, -0.3082]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.2291,  0.1512,  0.0883,  0.2130, -0.3019]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.2217,  0.1515,  0.0794,  0.2121, -0.2926]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.2145,  0.1517,  0.0707,  0.2112, -0.2836]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.2074,  0.1517,  0.0623,  0.2105, -0.2745]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.2003,  0.1515,  0.0539,  0.2099, -0.2653]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.1934,  0.1514,  0.0460,  0.2093, -0.2564]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.1868,  0.1511,  0.0386,  0.2088, -0.2480]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.1805,  0.1508,  0.0317,  0.2085, -0.2399]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.1743,  0.1505,  0.0253,  0.2082, -0.2322]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.1683,  0.1502,  0.0193,  0.2079, -0.2247]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.1624,  0.1498,  0.0137,  0.2077, -0.2173]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.1566,  0.1494,  0.0084,  0.2075, -0.2100]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.1507,  0.1490,  0.0033,  0.2074, -0.2025]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.1447,  0.1485, -0.0015,  0.2073, -0.1948]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.1386,  0.1480, -0.0062,  0.2072, -0.1870]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.1324,  0.1475, -0.0107,  0.2071, -0.1790]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.1261,  0.1470, -0.0151,  0.2071, -0.1709]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.1197,  0.1465, -0.0192,  0.2071, -0.1627]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.1131,  0.1459, -0.0233,  0.2071, -0.1542]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.1044,  0.1447, -0.0318,  0.2071, -0.1398]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.0966,  0.1435, -0.0409,  0.2071, -0.1249]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.0894,  0.1423, -0.0496,  0.2072, -0.1104]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.0828,  0.1413, -0.0578,  0.2072, -0.0964]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.0766,  0.1403, -0.0656,  0.2073, -0.0829]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.0709,  0.1394, -0.0730,  0.2075, -0.0700]],
+       grad_fn=<SliceBackward>)
+tensor([[ 0.0655,  0.1386, -0.0799,  0.2076, -0.0577]],
+       grad_fn=<SliceBackward>)

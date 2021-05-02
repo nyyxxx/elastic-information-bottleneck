@@ -1,17 +1,17 @@
-filepath='C:\study\codes\git\elastic-information-bottleneck\new-experiment\edited\validation\classification\batch_size';
-% a=[0,0.3 0.4 0.5 0.6 0.7 1];na=7;epc=100;
- a=[0,0.5,1];na=3;epc=100;
+filepath='C:\Users\Yuyan\OneDrive\new-experiment\edited\validation\classification\batch_size\迁移不同分布';
+%  a=[0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1];na=11;epc=100;
+ a=[0 0.5 1];na=3;epc=50;
 acc_t=zeros(na,epc);
 acc_rtr=zeros(na,epc);
 cmap=colormap(jet);
 m=floor(linspace(1,64,na));
-
+figure
 for i=1:na%alpha=0 0.5 1
         alpha=a(i);
-%         filename_t=" test_class_loss"+num2str(alpha)+"-"+"2.0.txt";
-%        filename_rtr=" real_test_class_loss"+num2str(alpha)+"-"+"2.0.txt";
-        filename_t="test_accuracy"+num2str(alpha)+"-"+"2.0.txt";
-        filename_rtr="real_test_accuracy"+num2str(alpha)+"-"+"2.0.txt";
+        filename_t="test_class_loss"+num2str(alpha)+"-"+"2.0.txt";
+       filename_rtr="real_test_class_loss"+num2str(alpha)+"-"+"2.0.txt";
+%         filename_t="test_accuracy"+num2str(alpha)+"-"+"2.0.txt";
+%         filename_rtr="real_test_accuracy"+num2str(alpha)+"-"+"2.0.txt";
         file_t=fullfile(filepath,filename_t);      % 导入.txt文件
         temp=importdata(file_t);
         len=length(temp);
