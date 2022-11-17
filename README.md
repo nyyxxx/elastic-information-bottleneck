@@ -12,7 +12,7 @@ The code is divided into 3 parts:
 
 3. MNIST experiment: Implement IB, EIB, DIB with neural network by means of variational method of VIB and CEB.
 MNIST experimental code is completed on the basis of code of (https://github.com/1Konny/VIB-pytorch)
-Since the generalization bound is easy to generalize to the adversarial robust bound, PGD adversarial experiments of IB, EIB, and DIB are also done here (https://github.com/cleverhans-lab/cleverhans/blob/master/cleverhans/torch /attacks/projected_gradient_descent.py)
+Since the generalization bound is easy to generalize to the adversarial robust bound, PGD adversarial experiments of IB, EIB, and DIB are also done here.
 
 For details, see the corresponding chapters of the paper.
 
